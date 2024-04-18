@@ -1,4 +1,4 @@
-### Hi there, I'm Yuxuan Lin 👋
+### Hi there, this is Yuxuan Lin 👋
 <!--
 **L10yx/L10yx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
