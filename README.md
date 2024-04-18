@@ -1,5 +1,5 @@
 ### Hi there, this is Yuxuan Lin 👋
-Here is my blog: L10yx.github.io
+##### Here is my blog: [L10yx.github.io](https://l10yx.github.io)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L10yx&hide=Roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **L10yx/L10yx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
