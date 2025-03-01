@@ -1,5 +1,5 @@
 ### Hi there, this is Yuxuan Lin 👋
-Here is my blog: [L10yx.github.io](https://l10yx.github.io) <br><br>
+Here is my blog: [L10yx.github.io](https://l10yx.github.io) 
 Find my CV [here](https://l10yx.github.io/yuxuanlin.github.io/) <br><br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L10yx&hide=Roff&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
