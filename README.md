@@ -1,22 +1,10 @@
-### Hi there, this is Yuxuan Lin 👋
-Find my homepage [here](https://JerryLinyx.github.io/CV/) <br><br>
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/JerryLinyx-github-readme)
-<img src="https://github-readme-stats.vercel.app/api?username=JerryLinyx&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false>
+# 👋 Hi there, I'm Yuxuan Lin  
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L10yx&hide=Roff&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+🌐 [**My Homepage**](https://JerryLinyx.github.io/CV/)  
 
+---
 
-**L10yx/L10yx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JerryLinyx.JerryLinyx)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerryLinyx&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false)
