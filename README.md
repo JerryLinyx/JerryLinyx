@@ -1,6 +1,7 @@
 ### Hi there, this is Yuxuan Lin 👋
 Find my homepage [here](https://JerryLinyx.github.io/CV/) <br><br>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/JerryLinyx-github-readme)
+<img src="https://github-readme-stats.vercel.app/api?username=JerryLinyx&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L10yx&hide=Roff&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
