@@ -1,4 +1,3 @@
-# 👋 Hi there, I'm Yuxuan (Jerry) Lin  
+# Hi there, I'm Yuxuan (Jerry) Lin. This is my [**homepage**](https://JerryLinyx.github.io/Doc/).
 
-🌐 [**Homepage**](https://JerryLinyx.github.io/Doc/)  
 
