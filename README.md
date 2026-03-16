@@ -14,8 +14,8 @@
 <div align="center">
 
 [![Homepage](https://img.shields.io/badge/🌐%20Homepage-JerryLinyx.github.io-0d1117?style=for-the-badge&color=238636)](https://JerryLinyx.github.io/Doc/)
-[![Education](https://img.shields.io/badge/🎓%20ZJU--UIUC%20→%20Columbia-0d1117?style=for-the-badge&color=00b4d8)](https://github.com/JerryLinyx)
-[![Focus](https://img.shields.io/badge/🧱%20AI%20Infra%20%26%20Systems-0d1117?style=for-the-badge&color=ff6b35)](https://github.com/JerryLinyx)
+[![Education](https://img.shields.io/badge/🎓%20ZJU--UIUC%20→%20Columbia-0d1117?style=for-the-badge&color=00b4d8)](https://www.linkedin.com/in/yuxuan0/)
+[![Focus](https://img.shields.io/badge/🧱%20AI%20Infra%20%26%20Systems-0d1117?style=for-the-badge&color=ff6b35)](https://github.com/JerryLinyx/ai-algorithms-and-systems)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JerryLinyx)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=Linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/yuxuan0/)
