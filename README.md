@@ -54,7 +54,9 @@ tools      = ["Linux", "Docker", "Git", "UE5", "Blender", "Quartus"]
 ---
 
 ## `$ ls -la projects/`
-
+<details>
+ <summary><code>Projects</code></summary>
+ 
 | Category | Project | Description & Stack | Links |
 |:---:|---|---|---|
 | ![](https://img.shields.io/badge/AI_INFRA-1f6feb?style=flat-square&logoColor=white) | **[PACC](https://github.com/JerryLinyx/PACC)** | Power-aware distributed training framework &nbsp; ![](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | [Code](https://github.com/JerryLinyx/PACC) |
@@ -66,6 +68,9 @@ tools      = ["Linux", "Docker", "Git", "UE5", "Blender", "Quartus"]
 | ![](https://img.shields.io/badge/AGENT_%26_WEB-1a7f37?style=flat-square&logoColor=white) | **[FinGOAT](https://github.com/JerryLinyx/FinGOAT)** | Graph-orchestrated agentic trading &nbsp; ![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/GORM-3E7AAB?logo=go&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square) | [Code](https://github.com/JerryLinyx/FinGOAT) · [▶ Video](https://youtu.be/f5eHl32v5gU) |
 | ![](https://img.shields.io/badge/AGENT_%26_WEB-1a7f37?style=flat-square&logoColor=white) | **[Kaida](https://github.com/JerryLinyx/kaida)** | Next.js + Three.js + GSAP brand site &nbsp; ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square) | [Code](https://github.com/JerryLinyx/kaida) · [↗ Demo](https://kaidamotors.vercel.app/) |
 | ![](https://img.shields.io/badge/AGENT_%26_WEB-1a7f37?style=flat-square&logoColor=white) | **[The-Fitness-Coach](https://github.com/JerryLinyx/The-Fitness-Coach)** | Full-stack CV-powered AIoT app (UIUC SP25) &nbsp; ![](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/YOLO-3B8AFF?logo=ultralytics&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square) | [Code](https://github.com/JerryLinyx/The-Fitness-Coach) |
+
+</details>
+
 
 <details>
 <summary><code>More Coursework ...</code></summary>
