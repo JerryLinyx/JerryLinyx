@@ -68,7 +68,7 @@ tools      = ["Linux", "Docker", "Git", "UE5", "Blender", "Quartus"]
 | ![](https://img.shields.io/badge/AGENT_%26_WEB-1a7f37?style=flat-square&logoColor=white) | **[The-Fitness-Coach](https://github.com/JerryLinyx/The-Fitness-Coach)** | Full-stack CV-powered AIoT app (UIUC SP25) &nbsp; ![](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/YOLO-3B8AFF?logo=ultralytics&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square) | [Code](https://github.com/JerryLinyx/The-Fitness-Coach) |
 
 <details>
-<summary><code>More Coursework</code></summary>
+<summary><code>More Coursework ...</code></summary>
 
 | Course | Topic | Links |
 |---|---|---|
