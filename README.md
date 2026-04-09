@@ -95,9 +95,9 @@ tools      = ["Linux", "Docker", "Git", "UE5", "Blender", "Quartus"]
 <div align="center">
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerryLinyx&theme=github-dark-blue&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryLinyx&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,roff,css,assembly)
-</div>
 
+</div>
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryLinyx&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,roff,css,assembly) -->
 <!-- If you're reading the source, you already know what you're doing. Welcome. -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerryLinyx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) -->
 
